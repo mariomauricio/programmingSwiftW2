@@ -1,4 +1,4 @@
-//: Playground - noun: a place where people can play
+//: Creacion programa semana 2 curso de iOS
 
 import UIKit
 
